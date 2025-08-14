@@ -14,7 +14,7 @@ To install and run Lux, you need to have Go installed on your system:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/li-lay/lux.git
 cd lux
 
 # Build the application
@@ -70,4 +70,3 @@ Lux uses the following Go libraries:
 [Contribution guidelines would go here]
 
 This project is a work in progress and aims to become a simple brightness controller for Linux systems.
-
