@@ -1,10 +1,10 @@
 package main
 
 import (
-	// "github.com/charmbracelet/bubbles/list"
 	"github.com/charmbracelet/lipgloss"
 )
 
+var Bg = lipgloss.NewStyle().Foreground(lipgloss.Color("#282828"))
 var Fg = lipgloss.NewStyle().Foreground(lipgloss.Color("#ebdbb2"))
 
 var Green = lipgloss.NewStyle().Foreground(lipgloss.Color("#98971a"))
